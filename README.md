@@ -80,7 +80,6 @@ The system follows a modular 5-phase pipeline:
 ## 📊 Outcomes
 
 - Improved legal literacy among non-experts
-- Automated generation of legally compliant documents
 - Accurate legal query response system
 - User-friendly chatbot accessible through web interface
 - Secure, lightweight, and scalable architecture
